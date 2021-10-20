@@ -14,7 +14,7 @@ Project Chairs if you have any questions.
 8. Access the repo on GitHub and check that your branch has been updated
 9. Wait for one of the projects chairs to change the main branch remotely
 10. Checkout the main branch again and pull the changes made
-11. Checkout the branch you created again and merge the changes from the main branch
+11. Checkout the branch you created again and merge the changes from the main branch (keep the changes you made in step 4)
 12. Fix the merge conflict that arises
 
 13. BONUS: Create a pull request to merge your changes to the main branch (on GitHub)
