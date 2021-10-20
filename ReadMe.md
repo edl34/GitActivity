@@ -10,8 +10,9 @@ Project Chairs if you have any questions.
 5. Checkout the main branch again and pull the changes made
 6. Checkout the branch you created again and merge the changes from the main branch
 7. Fix the merge conflict that arises
-8. Check the status of your branch and note which files were modified
-9. Stage the modified files and check the status again. Note how it changed from the previous step
-10. Commit your changes and push them
-11. Access the repo on GitHub and check that your branch has been pushed
-12. BONUS: Create a pull request to merge your changes to the main branch (on GitHub)
+8. Edit HelloWorld.cpp to greet anyone you like
+9. Check the status of your branch and note which files were modified
+10. Stage the modified files and check the status again. Note how it changed from the previous step
+11. Commit your changes and push them
+12. Access the repo on GitHub and check that your branch has been pushed
+13. BONUS: Create a pull request to merge your changes to the main branch (on GitHub)
