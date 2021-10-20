@@ -6,7 +6,7 @@ Project Chairs if you have any questions.
 
 1. Clone this repo to your local machine
 2. Create a new branch with a name of your chosing
-3. Commit and push this branch and check that it can be accessed from GitHub
+3. Push this branch and check that it can be accessed from GitHub
 4. Edit HelloWorld.cpp to greet anyone you like
 5. Check the status of your branch and note which files were modified
 6. Stage the modified files and check the status again. Note how it changed from the previous step
