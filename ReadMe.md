@@ -16,5 +16,6 @@ Project Chairs if you have any questions.
 10. Checkout the main branch again and pull the changes made
 11. Checkout the branch you created again and merge the changes from the main branch
 12. Fix the merge conflict that arises (keep the changes you made in step 4)
+13. Stage, commit, and push your branch
 
-13. BONUS: Create a pull request to merge your changes to the main branch (on GitHub)
+14. BONUS: Create a pull request to merge your changes to the main branch (on GitHub)
